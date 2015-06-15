@@ -1,6 +1,6 @@
 # AutoLab_Python_Amazon_Tests
-<<<<<<< HEAD
 
+Automation scripts using Page object pattern for Amazon page are implemented in Python
 
 > Requirement:
 
@@ -17,6 +17,3 @@
 - Go to /usr/bin directory "cd /usr/bin"
 - You would need to run something like "sudo chmod a+x chromedriver" to mark it executable.
 - finally you can execute the code.
-=======
-Automation scripts using Page object pattern for Amazon page are implemented in Python
->>>>>>> 27b22c0a0e7b9c061cf7917e3873b9f39a439340
