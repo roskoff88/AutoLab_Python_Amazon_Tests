@@ -1,0 +1,6 @@
+Browser name;Yes/No;
+Firefox;Yes;
+Chrome;Yes;
+PhantomJS;No;
+Safari;No;
+Ie;No;
